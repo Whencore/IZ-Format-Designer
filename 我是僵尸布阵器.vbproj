@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Costura.Fody.4.1.0\build\Costura.Fody.props" Condition="Exists('packages\Costura.Fody.4.1.0\build\Costura.Fody.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0863834B-F0A3-4CDB-94D9-62F26B508D1F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IZ_Format_Designer_V2.My.MyApplication</StartupObject>
+    <RootNamespace>IZ_Format_Designer_V2</RootNamespace>
+    <AssemblyName>IZ_Format_Designer_V2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IZ_Format_Designer_V2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IZ_Format_Designer_V2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>izicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>IZ_Format_Designer_V2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>IZ_Format_Designer_V2.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Costura, Version=4.1.0.0, Culture=neutral, PublicKeyToken=9919ef960d84173d, processorArchitecture=MSIL">
+      <HintPath>packages\Costura.Fody.4.1.0\lib\net40\Costura.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PvZHomeAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\PvZHomeAPI.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PVZClass.vb" />
+    <Compile Include="PVZModifyClass.vb" />
+    <Compile Include="Workshop.Designer.vb">
+      <DependentUpon>Workshop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Workshop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workshop.resx">
+      <DependentUpon>Workshop.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Grave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Hole.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Ladder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Rake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\BackRepeater.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\BigNut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards\Ya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Workshop_Logo.png" />
+    <None Include="packages.config" />
+    <None Include="Resources\WinkleLogo.png" />
+    <None Include="Resources\PortalBlackA.png" />
+    <None Include="Resources\PortalBlackB.png" />
+    <None Include="Resources\PortalWhiteA.png" />
+    <None Include="Resources\PortalWhiteB.png" />
+    <Content Include="izicon.ico" />
+    <Content Include="Resources\Selected.png" />
+    <None Include="Resources\PasteAndCreate.png" />
+    <None Include="Resources\Paste.png" />
+    <None Include="Resources\Copy.png" />
+    <None Include="Resources\Cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="packages\Fody.6.0.0\build\Fody.targets" Condition="Exists('packages\Fody.6.0.0\build\Fody.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Fody.6.0.0\build\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Fody.6.0.0\build\Fody.targets'))" />
+    <Error Condition="!Exists('packages\Costura.Fody.4.1.0\build\Costura.Fody.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Costura.Fody.4.1.0\build\Costura.Fody.props'))" />
+  </Target>
+</Project>

@@ -1,0 +1,3480 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IZ自制关卡快捷布阵器 (V1.1.0)
+</name>
+</assembly>
+<members>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Culture">
+<summary>
+  重写当前线程的 CurrentUICulture 属性
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._0">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._10">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._11">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._12">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._13">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._14">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._15">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._16">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._17">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._18">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._19">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._2">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._20">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._21">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._22">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._23">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._24">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._25">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._26">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._27">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._28">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._29">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._3">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._30">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._31">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._32">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._33">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._34">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._35">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._36">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._37">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._38">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._39">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._4">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._40">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._41">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._42">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._43">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._44">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._45">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._46">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._47">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._5">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._6">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._7">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._8">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources._9">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.BackRepeater">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.BigNut">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.CardSelector">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.EndGame__1_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.EndGame__2_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.EndGame__3_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__1_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__2_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__3_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__4_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__5_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__6_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__6_1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__7_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.FanmadeIZ__8_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Grave">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Hole">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Ladder">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Rake">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Red">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Shovel">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.Ya">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__1_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__10_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__11_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__12_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__13_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__14_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__15_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__16_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__17_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__2_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__3_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__4_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__5_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__6_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__7_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__8_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.My.Resources.Resources.ZenRoad__9_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ">
+ <summary>
+ 此类不可实例化,想修改游戏必须先调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RunGame"/>,所有设计时间/倒计时的数值单位均为<see langword="厘秒"/><para/>
+ 当前仍然是测试版本，有很多代码在实际应用中并没有作用，甚至影响效率，请酌情删改<para/>
+将一些类的<see langword="BaseAddress"/>属性初始化在<see langword="New"/>过程里,并删除以下代码，可以避免每次调用都重新读取，提高效率<para/>
+<see langword="Public Shared ReadOnly Property"/> BaseAddress <see langword="As Integer"/><para/>
+<see langword="      Get"/><para/>
+<see langword="              Return "/><see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.GetAddress(System.Int32,System.Int32)"/><para/>
+<see langword="      End Get"/><para/>
+<see langword="End Property"/><para/>
+如果你不需要运行游戏中某个这个功能，请重写<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RunGame"/>方法并删除相关属性<para/>
+请务必在程序退出时调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CloseGame(System.Boolean)"/>方法，以便处理遗留问题<para/>
+想使用某些方法，请先调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.InitFunctions"/>方法<para/>
+<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.CreateThreadNoWait(System.Int32)"/>方法效率高但可能不稳定，在功能上和<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.CreateThread(System.Int32)"/>完全一样<para/>
+使用事件循环可以大幅提高效率(不会写的可以找我帮忙),并且直到游戏关闭或执行<see langword="Stop"/>方法时一直有效
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateRemoteThread(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32@)">
+ <summary>
+ 在指定地址创建线程,并返回线程句柄
+ </summary>
+ <returns>线程句柄</returns>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VirtualAllocEx(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 申请内存页空间
+ </summary>
+ <returns>申请的内存页首地址</returns>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.WaitForSingleObject(System.Int32,System.Int32)">
+ <summary>
+ 等待线程的运行,并返回线程的运行状态
+ </summary>
+ <returns>线程运行状态</returns>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VirtualFreeEx(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 释放内存页空间
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VirtualProtectEx(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32@)">
+ <summary>
+ 修改内存页的访问权限
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Game">
+ <summary>
+ 获取游戏的进程对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Variable">
+ <summary>
+ 0-100存放高效创建子弹的函数<para/>
+ 100-200存放字符串或者PlantEffect的伪造植物对象<para/>
+ 200-300存放子弹的事件循环代码<para/>
+ 300-400存放僵尸的事件循环代码<para/>
+ 400-500存放植物的事件循环代码<para/>
+ 500-600存放各种需要初始化的功能
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PVZVER">
+ <summary>
+ 游戏版本
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GameName">
+ <summary>
+ 默认寻找游戏名称
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GameTitle">
+ <summary>
+ 默认寻找游戏窗口
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LastWarning">
+ <summary>
+ 获取最后的警告信息
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ClassVer">
+ <summary>
+ 此类的版本
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GameVer">
+ <summary>
+ 获取游戏版本
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ApplicableVer">
+ <summary>
+ 获得该类支持的游戏版本,用LogicalInclude方法来判断
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GamePath">
+ <summary>
+ 不含文件名的纯路径,一旦设置,将会优先从此处寻找游戏,<para>注意该数值会保存至注册表<see langword="HKEY_LOCAL_MACHINE\SOFTWARE\PVZ"/>的<see langword="GamePath"/>中</para>
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.InitFunctions">
+ <summary>
+ 如果不需要使用下列方法可以不调用<para/>
+ <see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateProjectile­(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ProjectiletType,System.Int32,System.Int32,System.Single,System.Single)"/><para/>
+ <see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreatePortal(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)"/>
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RunGame">
+ <summary>
+ 寻找游戏并初始化(如果设置了<see cref="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GamePath"/>则在文件夹中打开游戏)<para/>
+ 注意这里正常是不使用<see langword="FindWindow"/>函数而是找进程名字,成功返回真,失败返回假
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CloseGame(System.Boolean)">
+ <summary>
+ 程序结束或者再次使用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RunGame"/>方法之前一定要调用
+ </summary>
+ <param name="CancelEventLoop">如果你不希望结束事件循环可以设置False(但这意味着申请的内存讲不被释放)</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LogicalInclude(System.Int32,System.Int32)">
+ <summary>
+ 判断目标值是否包括指定的值
+ </summary>
+ <param name="Comparator">要判断的值</param>
+ <param name="Value">判断的值</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.XYToRC(System.Drawing.Point@)">
+ <summary>
+ 将XY的坐标转换为RC的坐标
+ </summary>
+ <param name="XY">XY坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RCToXY(System.Drawing.Point@)">
+ <summary>
+ 将RC的坐标转换为XY的坐标
+ </summary>
+ <param name="RC">RC坐标</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory">
+ <summary>
+ 提高对游戏的内存操作(读写内存,申请/释放内存,创建线程)
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.SetExecuteReadWrite(System.Int32)">
+ <summary>
+ 将指定的内存页修改为可执行可写,成功返回真,失败返回假
+ </summary>
+ <param name="Address">要修改的内存页的首地址</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.AllocMemory">
+ <summary>
+ 申请内存页,并返回申请的内存页的首地址
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.AllocMemoryGlobal(System.String)">
+ <summary>
+ 申请全局内存页,并返回申请的内存页的首地址
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.CreateThread(System.Int32)">
+ <summary>
+ 在指定地址创建线程并等待运行
+ </summary>
+ <param name="Address">要创建线程的地址</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.CreateThreadNoWait(System.Int32)">
+ <summary>
+ 在指定地址创建线程且不等待运行(不稳定)
+ </summary>
+ <param name="Address">要创建线程的地址</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.FreeMemory(System.Int32)">
+ <summary>
+ 释放指定内存页
+ </summary>
+ <param name="Address">要释放的内存页首地址</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Memory.Execute(System.Byte[])">
+ <summary>
+ 执行汇编字节代码,并返回一个值(通常是目标对象的指针)
+ </summary>
+ <param name="AsmCodes">要运行的汇编字节代码</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SetVolume(System.Double,System.Double)">
+ <summary>
+ 设置音量大小和音效大小
+ </summary>
+ <param name="Music">音量大小</param>
+ <param name="SoundFX">音效大小(默认0.65[最大值])</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateZombie(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType,System.Int32,System.Byte)">
+ <summary>
+ 创建一个僵尸,并返回创建的僵尸对象
+ </summary>
+ <param name="Type">僵尸类型</param>
+ <param name="Row">僵尸所在行</param>
+ <param name="Column">僵尸所在列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreatePlant(IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantType,System.Int32,System.Byte,System.Boolean)">
+ <summary>
+ 创建一个植物,并返回创建的植物对象
+ </summary>
+ <param name="Type">植物类型</param>
+ <param name="Row">植物所在行</param>
+ <param name="Column">植物所在列</param>
+ <param name="Imitative">是否为模仿者,默认为否</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateProjectile(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ProjectiletType,System.Byte,System.Int32)">
+ <summary>
+ 用常规方法创建一个子弹,并返回创建的子弹对象
+ </summary>
+ <param name="Type">子弹类型</param>
+ <param name="Row">子弹所在行</param>
+ <param name="X">子弹横坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateProjectile­(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ProjectiletType,System.Int32,System.Int32,System.Single,System.Single)">
+ <summary>
+ 用高效的方法创建一个子弹,并返回创建的子弹对象<para/>
+ 需要调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.InitFunctions"/>
+ </summary>
+ <param name="Type">子弹类型</param>
+ <param name="X">子弹横坐标</param>
+ <param name="Y">子弹纵坐标</param>
+ <param name="Angle">子弹的移动角度</param>
+ <param name="Speed">子弹的移动速度</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateCoin(IZ自制关卡快捷布阵器_V1._1._0.PVZ.CoinType,System.Int32,System.Byte,IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.MotionType)">
+ <summary>
+ 创建一个掉落物,并返回创建的掉落物对象
+ </summary>
+ <param name="Type">掉落物类型</param>
+ <param name="X">掉落物横坐标</param>
+ <param name="Y">掉落物纵坐标</param>
+ <param name="State">掉落物状态</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SetLawnmover">
+ <summary>
+ 恢复小推车
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateGriditem">
+ <summary>
+ 创建一个场地物品,并返回创建的场地物品对象<para/>
+ 注意这个对象是所有实际的场地物品的基类,具体参数需要手动设置
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateGrave(System.Int32,System.Int32)">
+ <summary>
+ 创建一个墓碑
+ </summary>
+ <param name="Row">墓碑所在行</param>
+ <param name="Column">墓碑所在列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateCrater(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 创建一个弹坑,并返回创建的弹坑对象
+ </summary>
+ <param name="Row">弹坑所在行</param>
+ <param name="Column">弹坑所在列</param>
+ <param name="Timeout">弹坑消失时间</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateLadder(System.Int32,System.Byte)">
+ <summary>
+ 创建一个梯子,并返回创建的梯子对象
+ </summary>
+ <param name="Row">梯子所在行</param>
+ <param name="Column">梯子所在列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateVase(System.Int32,System.Int32,IZ自制关卡快捷布阵器_V1._1._0.PVZ.VaseContent,IZ自制关卡快捷布阵器_V1._1._0.PVZ.VaseSkin,IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType,IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantType,System.Int32)">
+ <summary>
+ 创建一个花瓶,并返回创建的花瓶对象,建议使用关键字参数的形式为参数赋值
+ </summary>
+ <param name="Row">花瓶所在行</param>
+ <param name="Column">花瓶所在列</param>
+ <param name="Content">花瓶内容类型</param>
+ <param name="Skin">花瓶皮肤,默认问号</param>
+ <param name="Zombie">僵尸花瓶内的僵尸类型</param>
+ <param name="Plant">植物花瓶内的植物类型</param>
+ <param name="Sun">阳光花瓶内的阳光类型</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateRake(System.Byte,System.Byte)">
+ <summary>
+ 创建一个钉耙
+ </summary>
+ <param name="Row">钉耙所在行</param>
+ <param name="Column">钉耙所在列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateCaption(System.String,IZ自制关卡快捷布阵器_V1._1._0.PVZ.CaptionStyle,System.Int32)">
+ <summary>
+ 创建字幕
+ </summary>
+ <param name="Content">字幕内容</param>
+ <param name="Style">字幕样式</param>
+ <param name="Timeout">字幕消失时间,默认500</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateImageCaption(System.String)">
+ <summary>
+ 创建红字字幕,注意必须是全英文字符
+ </summary>
+ <param name="Content">红字字幕内容</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreatePlantEffect(IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantEffectType,System.Int32,System.Int32)">
+ <summary>
+ 创建一个植物爆炸效果,和植物类内部的爆炸效果一样,但此函数不创建对象<para/>
+ 你可以使用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RCToXY(System.Drawing.Point@)"/>将行列转换成坐标
+ </summary>
+ <param name="Type">爆炸类型</param>
+ <param name="X">爆炸的横坐标</param>
+ <param name="Y">爆炸的纵坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateExplosion(System.Int32,System.Int32,System.Int32,System.Boolean,System.Byte,System.Boolean)">
+ <summary>
+ 创建一个爆炸,注意只有爆炸效果,而没有爆炸的音效和特效<para/>
+ 你可以使用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateEffect(System.Int32,System.Single,System.Single)"/>和<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateSound(System.Int32)"/>函数手动创建<para/>
+ 对于上下界限,它限制了爆炸的范围在[自身所在行-界限,自身所在行+界限]的范围内,樱桃是1,毁灭菇是3
+ </summary>
+ <param name="X">爆炸的横坐标</param>
+ <param name="Y">爆炸的纵坐标</param>
+ <param name="Radius">爆炸的半径</param>
+ <param name="Cinder">是否为灰烬伤害</param>
+ <param name="Bound">爆炸的上下界限,默认5(不限制)</param>
+ <param name="EnemyDamage">是否为敌方的伤害(只炸魅惑僵尸)</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateEffect(System.Int32,System.Single,System.Single)">
+ <summary>
+ 创建一个特效,注意某些特效不会自动消失
+ </summary>
+ <param name="ID">特效类型</param>
+ <param name="X">特效横坐标</param>
+ <param name="Y">特效纵坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateSound(System.Int32)">
+ <summary>
+ 创建一个音效,注意部分音效并不会自动停止,请使用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.StopSound(System.Int32)"/>方法手动停止
+ </summary>
+ <param name="ID">音效类型</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FrozeAll">
+ <summary>
+ 冻结全屏,注意你必须至少种下过一个植物(不要求当前存在)
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.StopSound(System.Int32)">
+ <summary>
+ 停止一个音效
+ </summary>
+ <param name="ID">音效类型</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateIZombieFormation(IZ自制关卡快捷布阵器_V1._1._0.PVZ.Level)">
+ <summary>
+ 创建IZ阵型
+ </summary>
+ <param name="IZlevel">需要创建的关卡</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateVaseFormation(IZ自制关卡快捷布阵器_V1._1._0.PVZ.Level)">
+ <summary>
+ 创建VB阵型,不包括4-5的阵型
+ </summary>
+ <param name="VBlevel">需要创建的关卡</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreatePortal(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 创建传送门
+ </summary>
+ <param name="Yellow1Row">第1个黄色传送门所在行</param>
+ <param name="Yellow1Column">第1个黄色传送门所在列</param>
+ <param name="Yellow2Row">第2个黄色传送门所在行</param>
+ <param name="Yellow2Column">第2个黄色传送门所在列</param>
+ <param name="Blue1Row">第1个蓝色传送门所在行</param>
+ <param name="Blue1Column">第1个蓝色传送门所在列</param>
+ <param name="Blue2Row">第2个蓝色传送门所在行</param>
+ <param name="Blue2Column">第2个蓝色传送门所在列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CallZombieList">
+ <summary>
+ 生成出怪列表
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ShowZombiePreview">
+ <summary>
+ 显示出怪预览
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CreateZombieList(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType[],System.Int32)">
+ <summary>
+ 创建出怪列表(设置出怪)
+ </summary>
+ <param name="ZombieSeed">出怪种子</param>
+ <param name="Wave">需要设置的波数,默认为0(不干预)</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MusicVolume">
+ <summary>
+ 游戏音乐音量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SoundFXVolume">
+ <summary>
+ 游戏音效音量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllZombies">
+ <summary>
+ 获取全部僵尸对象,返回一个僵尸对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombiesCount">
+ <summary>
+ 当前僵尸数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllExistPlants">
+ <summary>
+ 获取全部植物对象,返回一个植物对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllPlants">
+ <summary>
+ 获取全部植物对象,返回一个植物对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantsCount">
+ <summary>
+ 当前植物数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllProjectiles">
+ <summary>
+ 获取全部子弹对象,返回一个子弹对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ProjectilesCount">
+ <summary>
+ 当前子弹数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllCoins">
+ <summary>
+ 获取全部掉落物对象,返回一个掉落物对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CoinsCount">
+ <summary>
+ 当前掉落物数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllLawnmovers">
+ <summary>
+ 获取全部小推车对象,返回一个小推车对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LawnmoversCount">
+ <summary>
+ 当前小推车数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllGriditems">
+ <summary>
+ 获取全部场地物品对象,返回一个场地物品对象的数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GriditemsCount">
+ <summary>
+ 当前场地物品数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllCards">
+ <summary>
+ 获取全部卡槽中卡片对象,返回一个SeedCard对象的数组
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Level">
+ <summary>
+ 关卡枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LevelId">
+ <summary>
+ 设置或获取当前关卡
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GameState">
+ <summary>
+ 游戏状态(关卡状态)枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LevelState">
+ <summary>
+ 设置或获取当前关卡状态,注意大部分时候这并不有效
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FreePlantingCheat">
+ <summary>
+ 开启或关闭游戏自带的免费种植
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullVersion">
+ <summary>
+ 设置或获取游戏是否为完全版本
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MouseClickState">
+ <summary>
+ 鼠标点击状态枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse">
+ <summary>
+ 鼠标对象(控制层面的鼠标)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.InGameArea">
+ <summary>
+ 鼠标是否在游戏画面内
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.X">
+ <summary>
+ 鼠标横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.Y">
+ <summary>
+ 鼠标纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.ClickState">
+ <summary>
+ 鼠标点击状态
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.WMLClick(System.Int16,System.Int16)">
+ <summary>
+ 通过发送消息左键点击一个坐标
+ </summary>
+ <param name="X">要点击的横坐标</param>
+ <param name="Y">要点击的纵坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.WMRClick(System.Int16,System.Int16)">
+ <summary>
+ 通过发送消息右键点击一个坐标
+ </summary>
+ <param name="X">要点击的横坐标</param>
+ <param name="Y">要点击的纵坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mouse.GameClick(System.Int32,System.Int32)">
+ <summary>
+ 点击一个坐标
+ </summary>
+ <param name="X">要点击的横坐标</param>
+ <param name="Y">要点击的纵坐标</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType">
+ <summary>
+ 僵尸类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie">
+ <summary>
+ 僵尸对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.#ctor(System.Int32)">
+ <summary>
+ 新建一个僵尸对象,可以使用僵尸的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">僵尸的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.ImageX">
+ <summary>
+ 僵尸图像的横坐标,若想修改真实坐标请修改X
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.ImageY">
+ <summary>
+ 僵尸图像的纵坐标,若想修改真实坐标请修改Y
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Visible">
+ <summary>
+ 设置或获取僵尸是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Row">
+ <summary>
+ 设置或获取僵尸所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Layer">
+ <summary>
+ 设置或获取僵尸的图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Type">
+ <summary>
+ 设置或获取僵尸的类型(通常不推荐设置)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.State">
+ <summary>
+ 设置或获取僵尸的状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.X">
+ <summary>
+ 设置或获取僵尸的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Y">
+ <summary>
+ 设置或获取僵尸的纵坐标
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Light(System.Int32)">
+ <summary>
+ 僵尸发光(被击中时的效果)
+ </summary>
+ <param name="CentiSecond">发光的时长(厘秒),默认100</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.ExistedTime">
+ <summary>
+ 获取僵尸的已存在时间
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AttributeCountdown">
+ <summary>
+ 设置或获取僵尸的属性倒计时,具体由僵尸本身的类别区分作用
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.DisappearCountdown">
+ <summary>
+ 设置或获取僵尸消失倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.CollisionX">
+ <summary>
+ 设置或获取僵尸碰撞判定的横坐标(相对自身的坐标)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.CollisionY">
+ <summary>
+ 设置或获取僵尸碰撞判定的纵坐标(相对自身的坐标)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.CollisionLength">
+ <summary>
+ 设置或获取僵尸碰撞判定的宽度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.CollisionHeight">
+ <summary>
+ 设置或获取僵尸碰撞判定的高度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AttackCollisionX">
+ <summary>
+ 设置或获取僵尸攻击判定的横坐标(相对自身的坐标)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AttackCollisionY">
+ <summary>
+ 设置或获取僵尸攻击判定的纵坐标(相对自身的坐标)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AttackCollisionLength">
+ <summary>
+ 设置或获取僵尸攻击判定的宽度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AttackCollisionHeight">
+ <summary>
+ 设置或获取僵尸攻击判定的高度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.DecelerateCountdown">
+ <summary>
+ 设置或获取僵尸的减速倒计时(修改此值不会立刻让僵尸减速)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.FixedCountdown">
+ <summary>
+ 设置或获取僵尸的黄油固定倒计时(修改此值不会让僵尸停止活动,但会停止行为)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.FrozenCountdown">
+ <summary>
+ 设置或获取僵尸的冻结倒计时(修改此值不会让僵尸停止活动,但会停止行为)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Hypnotized">
+ <summary>
+ 设置或获取僵尸是否被魅惑
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Blowaway">
+ <summary>
+ 设置或获取僵尸是否被吹走
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Dying">
+ <summary>
+ 设置或获取僵尸是否将死(血量低于临界值的状态)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.HandBroken">
+ <summary>
+ 僵尸是否过断手
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.SthinHandOrYetiLeft">
+ <summary>
+ 设置或获取僵尸是否有手持物,雪人是否向左走
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.InWater">
+ <summary>
+ 设置或获取僵尸是否在水中
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.GarlicBited">
+ <summary>
+ 设置或获取僵尸是否吃到了大蒜
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Accessories1">
+ <summary>
+ 僵尸1类饰品(全方位防御)枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Accessories2">
+ <summary>
+ 僵尸2类饰品(会直接受到投掷,地刺,后方攻击和僵尸啃咬攻击)枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AccessoriesType1">
+ <summary>
+ 设置或获取僵尸1类饰品
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.BodyHP">
+ <summary>
+ 设置或获取僵尸本体血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.MaxBodyHP">
+ <summary>
+ 设置或获取僵尸本体血量上限
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AccessoriesType1HP">
+ <summary>
+ 设置或获取僵尸1类饰品血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.MaxAccessoriesType1HP">
+ <summary>
+ 设置或获取僵尸1类饰品血量上限
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AccessoriesType2">
+ <summary>
+ 设置或获取僵尸2类饰品
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.AccessoriesType2HP">
+ <summary>
+ 设置或获取僵尸2类饰品血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.MaxAccessoriesType2HP">
+ <summary>
+ 设置或获取僵尸2类饰品血量上限
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Exist">
+ <summary>
+ 设置或获取僵尸是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Animation">
+ <summary>
+ 僵尸的动画对象
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Size">
+ <summary>
+ 设置或获取僵尸大小
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Id">
+ <summary>
+ 僵尸的ID(可用于子弹的跟踪)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Index">
+ <summary>
+ 取得这是第几个僵尸
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.DamageType">
+ <summary>
+ 伤害类型枚举
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Hit(System.Int32,IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.DamageType)">
+ <summary>
+ 攻击僵尸
+ </summary>
+ <param name="Damage">伤害值</param>
+ <param name="DamageType­">伤害类型,默认正前方普通伤害</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Blast">
+ <summary>
+ 炸死僵尸(给予一个灰烬攻击)
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.Butter">
+ <summary>
+ 黄油固定僵尸
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop">
+ <summary>
+ 僵尸的事件循环,即一直会运行的代码
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Initialize(System.Byte[])">
+ <summary>
+ 初始化应用事件循环的汇编代码
+ </summary>
+ <param name="Asmcode">以8B 06开始(mov eax,[esi]),C3(ret)结束,其中eax即为所有僵尸对象的指针</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Start">
+ <summary>
+ 开始执行事件循环,一点要先初始化,并且一旦运行,直到调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Stop­"/>方法或者游戏结束为止一直有效,中途不可再调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Initialize(System.Byte[])"/>
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Stop­">
+ <summary>
+ 结束事件循环,随时可以再次调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Zombie.EventLoop.Start"/>
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantType">
+ <summary>写
+ 植物类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantEffectType">
+ <summary>
+ 植物特效类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant">
+ <summary>
+ 植物对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.#ctor(System.Int32)">
+ <summary>
+ 新建一个植物对象,可以使用植物的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">植物的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.X">
+ <summary>
+ 设置或获取植物的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Y">
+ <summary>
+ 设置或获取植物的纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Visible">
+ <summary>
+ 设置或获取植物是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Row">
+ <summary>
+ 设置或获取植物所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Layer">
+ <summary>
+ 设置或获取植物图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Type">
+ <summary>
+ 设置或获取植物类型(通常不推荐设置)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Column">
+ <summary>
+ 设置或获取植物所在列
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.State">
+ <summary>
+ 设置或获取植物状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Hp">
+ <summary>
+ 设置或获取植物血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.MaxHp">
+ <summary>
+ 设置或获取植物血量上限
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Aggressive">
+ <summary>
+ 设置或获取植物是否可以攻击
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.BloverDisappearCountdown">
+ <summary>
+ 设置或获取三叶草消失倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EffectiveCountdown">
+ <summary>
+ 设置或获取植物产生爆炸效果倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.AttributeCountdown">
+ <summary>
+ 设置或获取植物属性倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.ShootOrProductCountdown">
+ <summary>
+ 设置或获取植物射击,产生物品倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.ShootOrProductInterval">
+ <summary>
+ 设置或获取植物射击,产生物品时间间隔
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.ShootingCountdown">
+ <summary>
+ 设置或获取植物射击(产生子弹)倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Animation1">
+ <summary>
+ 植物动画对象1
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Animation2">
+ <summary>
+ 植物动画对象2
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Light(System.Int32)">
+ <summary>
+ 植物发光
+ </summary>
+ <param name="CentiSecond">发光的时长,默认100</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Flash(System.Int32)">
+ <summary>
+ 植物闪光
+ </summary>
+ <param name="CentiSecond">闪光的时长,默认100</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.ImageXOffset">
+ <summary>
+ 设置或获取植物横坐标偏移
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.ImageYOffset">
+ <summary>
+ 设置或获取植物纵坐标偏移
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Exist">
+ <summary>
+ 设置或获取植物是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Squash">
+ <summary>
+ 设置或获取植物是否压扁
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Sleeping">
+ <summary>
+ 设置或获取植物是否睡着
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Id">
+ <summary>
+ 植物ID
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Index">
+ <summary>
+ 取得这是第几个植物
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.CreateEffect">
+ <summary>
+ 产生效果,注意只有部分特殊植物可以产生效果
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Fix">
+ <summary>
+ 固定植物,如同IZ中的植物一样不会运动
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.Shoot(System.Int32)">
+ <summary>
+ 使植物射击,并返回射击的子弹对象,注意杨桃对于该方法没有返回值
+ </summary>
+ <param name="TracktargetId">目标的ID,设置即可跟踪</param>
+ <returns></returns>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop">
+ <summary>
+ 植物的事件循环,即一直会运行的代码
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Initialize(System.Byte[])">
+ <summary>
+ 初始化应用事件循环的汇编代码
+ </summary>
+ <param name="Asmcode">以8B 06开始(mov eax,[esi]),C3(ret)结束,其中eax即为所有植物对象的指针</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Start">
+ <summary>
+ 开始执行事件循环,一点要先初始化,并且一旦运行,直到调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Stop­"/>方法或者游戏结束为止一直有效,中途不可再调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Initialize(System.Byte[])"/>
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Stop­">
+ <summary>
+ 结束事件循环,随时可以再次调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Plant.EventLoop.Start"/>
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ProjectiletType">
+ <summary>
+ 子弹类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile">
+ <summary>
+ 子弹对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.#ctor(System.Int32)">
+ <summary>
+ 新建一个植物对象,可以使用植物的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">植物的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.ImageX">
+ <summary>
+ 子弹图像的横坐标,若想修改真实坐标请修改X
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.ImageY">
+ <summary>
+ 子弹图像的纵坐标,若想修改真实坐标请修改Y
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Visible">
+ <summary>
+ 设置或获取子弹是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Row">
+ <summary>
+ 设置或获取子弹所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Layer">
+ <summary>
+ 设置或获取子弹图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.X">
+ <summary>
+ 设置或获取子弹横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Y">
+ <summary>
+ 设置或获取子弹纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Height">
+ <summary>
+ 设置或获取子弹相对地面的高度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.XSpeed">
+ <summary>
+ 设置或获取子弹的横向加速度,注意只有子弹运动状态为<see cref="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.MotionType.Float"/>时有效果
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.YSpeed">
+ <summary>
+ 设置或获取子弹的纵向加速度,注意只有子弹运动状态为<see cref="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.MotionType.Float"/>时有效果
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Exist">
+ <summary>
+ 设置或获取子弹是否存在
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.MotionType">
+ <summary>
+ 子弹运动状态枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Motion">
+ <summary>
+ 设置或获取子弹运动状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Type">
+ <summary>
+ 设置或获取子弹类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.ExistedTime">
+ <summary>
+ 子弹已经存在的时间
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.RotationAngle">
+ <summary>
+ 设置或获取子弹旋转角度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.RotationSpeed">
+ <summary>
+ 设置或获取子弹旋转速度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Damagable">
+ <summary>
+ 设置或获子弹的伤害状压
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.TracktargetId">
+ <summary>
+ 设置或获取子弹的跟踪目标,注意只有子弹运动状态为<see cref="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.MotionType.Track"/>时有效果
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Id">
+ <summary>
+ 子弹ID
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.Index">
+ <summary>
+ 取得这是第几个子弹
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.OnFire">
+ <summary>
+ 让子弹通过火炬
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop">
+ <summary>
+ 子弹的事件循环,即一直会运行的代码
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Initialize(System.Byte[])">
+ <summary>
+ 初始化应用事件循环的汇编代码
+ </summary>
+ <param name="Asmcode">以8B 06开始(mov eax,[esi]),C3(ret)结束,其中eax即为所有子弹对象的指针</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Start">
+ <summary>
+ 开始执行事件循环,一点要先初始化,并且一旦运行,直到调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Stop­"/>方法或者游戏结束为止一直有效,中途不可再调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Initialize(System.Byte[])"/>
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Stop­">
+ <summary>
+ 结束事件循环,随时可以再次调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Projectile.EventLoop.Start"/>
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CoinType">
+ <summary>
+ 掉落物类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin">
+ <summary>
+ 掉落物对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.#ctor(System.Int32)">
+ <summary>
+ 新建一个掉落物对象,可以使用掉落物的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">掉落物的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.ImageX">
+ <summary>
+ 掉落物图像的横坐标,若想修改真实坐标请修改X
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.ImageY">
+ <summary>
+ 掉落物图像的纵坐标,若想修改真实坐标请修改X
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.CollisionWidth">
+ <summary>
+ 设置或获取掉落物的碰撞宽度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.CollisionHeight">
+ <summary>
+ 设置或获取掉落物的碰撞高度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Visible">
+ <summary>
+ 设置或获取掉落物是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Layer">
+ <summary>
+ 设置或获取掉落物的图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.X">
+ <summary>
+ 设置或获取掉落物的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Y">
+ <summary>
+ 设置或获取掉落物的纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Size">
+ <summary>
+ 设置或获取掉落物的大小
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Exist">
+ <summary>
+ 设置或获取掉落物是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.ExistedTime">
+ <summary>
+ 掉落物已存在的时间
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Collected">
+ <summary>
+ 设置或获取掉落物是否被收集
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Type">
+ <summary>
+ 设置或获取掉落物的类型
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.MotionType">
+ <summary>
+ 掉落物的运动状态枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Motion">
+ <summary>
+ 设置或获取掉落物的运动状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.CardType">
+ <summary>
+ 设置或获取卡片掉落物的卡片内容
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Halo">
+ <summary>
+ 设置或获取掉落物是否有光环
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Id">
+ <summary>
+ 掉落物ID
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Coin.Index">
+ <summary>
+ 取得这是第几个掉落物
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LawnmowerType">
+ <summary>
+ 小推车类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover">
+ <summary>
+ 小推车对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.#ctor(System.Int32)">
+ <summary>
+ 新建一个小推车对象,可以使用小推车的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">小推车的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.X">
+ <summary>
+ 设置或获取小推车的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Y">
+ <summary>
+ 设置或获取小推车的纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Layer">
+ <summary>
+ 设置或获取小推车的图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Row">
+ <summary>
+ 设置或获取小推车所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.State">
+ <summary>
+ 设置或获取小推车状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Exist">
+ <summary>
+ 设置或获取小推车是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Visible">
+ <summary>
+ 设置或获取小推车是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Type">
+ <summary>
+ 设置或获取小推车类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.YOffset">
+ <summary>
+ 设置或获取小推车纵坐标偏移
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Id">
+ <summary>
+ 小推车ID
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawnmover.Index">
+ <summary>
+ 取得这是第几个小推车
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GriditemType">
+ <summary>
+ 场地物品枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem">
+ <summary>
+ 场地物品对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.#ctor(System.Int32)">
+ <summary>
+ 新建一个场地物品对象,可以使用场地物品的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">墓碑的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Type">
+ <summary>
+ 设置或获取场地物品的类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Column">
+ <summary>
+ 设置或获取场地物品所在列
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Row">
+ <summary>
+ 设置或获取场地物品所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Layer">
+ <summary>
+ 设置或获取场地物品的图层
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Exist">
+ <summary>
+ 设置或获取场地物品是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Id">
+ <summary>
+ 场地物品ID
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Griditem.Index">
+ <summary>
+ 取得这是第几个场地物品
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Grave">
+ <summary>
+ 墓碑对象
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Grave.#ctor(System.Int32)">
+ <summary>
+ 新建一个墓碑对象,可以使用墓碑的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">墓碑的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Grave.AppearedValue">
+ <summary>
+ 设置或获取墓碑露出地面的百分比
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Crater">
+ <summary>
+ 弹坑对象
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Crater.#ctor(System.Int32)">
+ <summary>
+ 新建一个弹坑对象,可以使用弹坑的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">弹坑的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Crater.DisappearCountdown">
+ <summary>
+ 设置或获取弹坑消失倒计时
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Brain">
+ <summary>
+ 脑子对象
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Brain.#ctor(System.Int32)">
+ <summary>
+ 新建一个脑子对象,可以使用脑子的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">脑子的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Brain.Hp">
+ <summary>
+ 设置或获取脑子血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Brain.Y">
+ <summary>
+ 设置或获取脑子纵坐标
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VaseSkin">
+ <summary>
+ 花瓶皮肤样式枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VaseContent">
+ <summary>
+ 花瓶内容类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase">
+ <summary>
+ 花瓶对象
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.#ctor(System.Int32)">
+ <summary>
+ 新建一个花瓶对象,可以使用花瓶的序号或者对象指针
+ </summary>
+ <param name="IndexOrAddress">脑子的序号或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.Skin">
+ <summary>
+ 设置或获取花瓶的皮肤样式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.Zombie">
+ <summary>
+ 设置或获取僵尸花瓶的僵尸类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.Plant">
+ <summary>
+ 设置或获取植物花瓶的植物类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.Content">
+ <summary>
+ 设置或获取花瓶的内容类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.MouseEnter">
+ <summary>
+ 鼠标是否悬停在花瓶上
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.TransparentCountDown">
+ <summary>
+ 设置或获取花瓶的透视倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Vase.Sun">
+ <summary>
+ 设置或获取阳光花瓶的阳光个数
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MouseType">
+ <summary>
+ 鼠标指针类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer">
+ <summary>
+ 鼠标对象(游戏内的鼠标对象)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.BaseAddress">
+ <summary>
+ 鼠标对象的指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.Index">
+ <summary>
+ 设置或获取鼠标当前拿的卡片的索引
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.CardType">
+ <summary>
+ 设置或获取鼠标当前拿的卡片的类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.ImitativeCardType">
+ <summary>
+ 设置或获取鼠标当前拿的卡片是否为模仿者
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.Type">
+ <summary>
+ 设置或获取鼠标类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.Row">
+ <summary>
+ 鼠标所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MousePointer.Column">
+ <summary>
+ 鼠标所在列
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CaptionStyle">
+ <summary>
+ 文本字幕的样式枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Caption">
+ <summary>
+ 文本字幕对象
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Caption.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Caption.Text">
+ <summary>
+ 文本字幕的文本内容
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Caption.DisappearCountdown">
+ <summary>
+ 设置或获取文本字幕的消失倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Caption.Style">
+ <summary>
+ 文本字幕的样式
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardType">
+ <summary>
+ 卡片类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot">
+ <summary>
+ 卡槽对象
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.X">
+ <summary>
+ 设置或获取卡槽整体的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.Y">
+ <summary>
+ 设置或获取卡槽整体的纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.CollisionLength">
+ <summary>
+ 设置或获取卡槽整体的判定长度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.Visible">
+ <summary>
+ 设置或获取卡槽整体是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.CardNum">
+ <summary>
+ 设置或获取卡槽的卡片数量
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SetCardNum(System.Int32)">
+ <summary>
+ 设置卡槽格数
+ </summary>
+ <param name="Num">卡槽格数</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.GetCard(System.Int32)">
+ <summary>
+ 取到一个卡片对象
+ </summary>
+ <param name="Num">要取的卡片的索引(从1开始)</param>
+ <returns></returns>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard">
+ <summary>
+ 卡片对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.#ctor(System.Int32)">
+ <summary>
+ 通过卡片对象的指针,新建一个卡片对象
+ </summary>
+ <param name="Address">卡片对象的指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.X">
+ <summary>
+ 设置或获取卡片的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.Y">
+ <summary>
+ 设置或获取卡片的纵坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.CollisionLength">
+ <summary>
+ 设置或获取卡片的判定宽度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.CollisionHeight">
+ <summary>
+ 设置或获取卡片的判定高度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.Visible">
+ <summary>
+ 设置或获取卡片是否可见
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.CoolDown">
+ <summary>
+ 设置或获取卡片的当前冷却时间
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.CoolDownInterval">
+ <summary>
+ 设置或获取卡片的冷却时间
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.Index">
+ <summary>
+ 设置或获取卡片在卡槽中的格数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.ConveyorBeltX">
+ <summary>
+ 设置或获取卡片在传送带中的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.CardType">
+ <summary>
+ 设置或获取卡片的类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.ImitativeCardType">
+ <summary>
+ 设置或获取模仿者植物卡片的类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.SlotCountdown">
+ <summary>
+ 设置或获取老虎机卡片停止倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.SlotType">
+ <summary>
+ 设置或获取老虎机的卡片类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.SlotPosition">
+ <summary>
+ 设置或获取老虎机卡片的位置
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.Enable">
+ <summary>
+ 设置或获取卡片是否可用
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.Active">
+ <summary>
+ 设置卡片可用
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardSlot.SeedCard.UsageCount">
+ <summary>
+ 卡片的使用次数
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous">
+ <summary>
+ 杂项(宝石迷阵)对象
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.DragingPlant">
+ <summary>
+ 是否在拖动植物
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.DragingX">
+ <summary>
+ 拖动的横坐标
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.DragingY">
+ <summary>
+ 拖动的纵坐标
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.HaveCrater(System.Int32,System.Int32)">
+ <summary>
+ 指定坐标的位置是否有有弹坑
+ </summary>
+ <param name="Row">行</param>
+ <param name="Colnum">列</param>
+ <returns></returns>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.SetCrater(System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ 设置/取消指定坐标弹坑
+ </summary>
+ <param name="Row">行</param>
+ <param name="Colnum">列</param>
+ <param name="Switch">是否设置弹坑,默认为设置弹坑</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.UpgradedRepeater">
+ <summary>
+ 设置或获取是否升级了双重射手
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.UpgradedFumeshroon">
+ <summary>
+ 设置或获取是否升级了大喷菇
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.UpgradedTallnut">
+ <summary>
+ 设置或获取是否升级了高坚果
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.AttributeCountdown">
+ <summary>
+ 设置或获取关卡属性倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.LevelProcess">
+ <summary>
+ 设置或获取关卡进程
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Miscellaneous.Round">
+ <summary>
+ 设置或获取当前关卡轮数
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AnimationModify">
+ <summary>
+ 动画对象修改项枚举
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.#ctor(System.Int32)">
+ <summary>
+ 新建一个动画对象,可以使用动画的ID或者对象指针
+ </summary>
+ <param name="AnimationIdOrAddress">动画的ID或者对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.CycleRate">
+ <summary>
+ 设置或获取当前动画的图像,游戏从0到1变化,不断循环
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.Speed">
+ <summary>
+ 设置或获取动画的速度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.Exist">
+ <summary>
+ 设置或获取动画是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.StartFrame">
+ <summary>
+ 设置或获取动画的起始帧
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.FrameNum">
+ <summary>
+ 设置或获取动画包含的帧数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.XScale">
+ <summary>
+ 设置或获取动画的横向缩放比
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.XSlant">
+ <summary>
+ 设置或获取动画的横向倾斜度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.XOffset">
+ <summary>
+ 设置或获取动画的横向位置偏移(应该不能设置)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.YScale">
+ <summary>
+ 设置或获取动画的纵向缩放比
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.YSlant">
+ <summary>
+ 设置或获取动画的纵向倾斜度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.YOffset">
+ <summary>
+ 设置或获取动画的纵向位置偏移(应该不能设置)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.Colour">
+ <summary>
+ 设置或获取动画对象的颜色(包括透明度)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.CycleCount">
+ <summary>
+ 设置或获取动画对象的循环播放次数
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.PaintState">
+ <summary>
+ 着色方式枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.Paint">
+ <summary>
+ 设置或获取动画的着色方式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.Id">
+ <summary>
+ 动画对象ID
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.EnableModify(IZ自制关卡快捷布阵器_V1._1._0.PVZ.AnimationModify)">
+ <summary>
+ 启用修改项目,使某些属性可写,一旦启动一直生效,直到调用<see cref="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.DisableModify"/>时停止
+ </summary>
+<param name="Modify">修改的项目，可用Or连接一次修改多个</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Animation.DisableModify">
+ <summary>
+ 恢复所有的修改项目
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData">
+ <summary>
+ 存档类(不完整)<para/>
+ 如果觉得有必要再叫我补完整吧
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.UserName">
+ <summary>
+ 当前用户名字
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.UserSwitchCount">
+ <summary>
+ 切换用户的次数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.UserIndex">
+ <summary>
+ 当前用户在所有用户中的索引
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.AdventureLevel">
+ <summary>
+ 设置或获取冒险模式的关卡
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.Money">
+ <summary>
+ 设置或获取金钱数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.AdventureFinishCount">
+ <summary>
+ 设置或获取冒险模式完成次数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.TreeHight">
+ <summary>
+ 设置或获取智慧树高度
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.HavePurpleCard(IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardType)">
+ <summary>
+ 是否有指定的紫卡
+ </summary>
+ <param name="PurpleCard">要判断的紫卡</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.SetPurpleCard(IZ自制关卡快捷布阵器_V1._1._0.PVZ.CardType)">
+ <summary>
+ 设置指定的紫卡
+ </summary>
+ <param name="PurpleCard">要判断的紫卡</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.HaveImitater">
+ <summary>
+ 设置或获取是否有模仿者
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.HaveGoldenWatering">
+ <summary>
+ 设置或获取是否有黄金水壶
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.Fertilizer">
+ <summary>
+ 设置或获取化肥数量,注意此值并非实际值
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.BugSpray">
+ <summary>
+ 设置或获取杀虫剂数量,注意此值并非实际值
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.CardSlotNum">
+ <summary>
+ 设置或获取购买卡槽的格数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.Chocolate">
+ <summary>
+ 设置或获取巧克力数量,注意此值并非实际值
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.TreeFood">
+ <summary>
+ 设置或获取树肥数量,注意此值并非实际值
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.HaveWallnutFirstAid">
+ <summary>
+ 设置或获取是否有结果包扎术
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlantNum">
+ <summary>
+ 花园植物数量
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GetGardenPlant(System.Int32)">
+ <summary>
+ 获得一个花园植物的对象
+ </summary>
+ <param name="Num">要获取的花园植物的序号</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenScene">
+ <summary>
+ 花园植物位置枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlantDirection">
+ <summary>
+ 花园植物方向枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlantState">
+ <summary>
+ 花园植物状态枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant">
+ <summary>
+ 花园植物对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.#ctor(System.Int32)">
+ <summary>
+ 通过花园植物的序号,新建一个花园植物对象
+ </summary>
+ <param name="Address">花园植物的序号</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Type">
+ <summary>
+ 设置或获取花园植物的类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Location">
+ <summary>
+ 设置或获取花园植物的位置
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Row">
+ <summary>
+ 设置或获取花园植物所在行
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Column">
+ <summary>
+ 设置或获取花园植物所在列
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Direction">
+ <summary>
+ 设置或获取花园植物的方向
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.Colour">
+ <summary>
+ 设置或获取花园植物的颜色(金盏花的颜色)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SaveData.GardenPlant.State">
+ <summary>
+ 设置或获取花园植物的状态
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MusicType">
+ <summary>
+ 背景音乐类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.INGAMEState">
+ <summary>
+ 背景音乐状态枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.INGAMEEffectState">
+ <summary>
+ 背景音乐效果枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music">
+ <summary>
+ 背景音乐对象
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.Type">
+ <summary>
+ 设置或获取音乐类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.INGAMEEnable">
+ <summary>
+ 设置或获取当前音乐是否可以开启INGAME
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.INGAMEStart">
+ <summary>
+ 设置或获取当前音乐是否开启了INGAME模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.Tempo">
+ <summary>
+ 当前音乐的BPM
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.TicksRow">
+ <summary>
+ 当前音乐的速度
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.State">
+ <summary>
+ 设置或获取当前音乐状态
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.AttributeCountdown">
+ <summary>
+ 设置或获取当前音乐属性倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Music.EffectState">
+ <summary>
+ 设置或获取当前音乐效果状态
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Bass_Dll">
+ <summary>
+ 音乐库类(啥都没有)<para/>
+ 如果觉得有必要再叫我补完整吧
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Bass_Dll.MusicSetAttribute(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 设置音乐属性<para/>
+ </summary>
+ <param name="HMUSIC">要设置的音乐</param>
+ <param name="Attribute">属性值</param>
+ <param name="Value">设置的数值</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MainObjectExist">
+ <summary>
+ 主要对象是否存在
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BaseAddress">
+ <summary>
+ 主要对象的指针
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ViewX">
+ <summary>
+ 设置或获取画面横坐标(向左递增,正常游戏时为0)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ViewY">
+ <summary>
+ 设置或获取画面纵坐标(向下递增,正常游戏时为0)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ViewLength">
+ <summary>
+ 设置或获取画面可点击的横坐标范围
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ViewHeight">
+ <summary>
+ 设置或获取画面可点击的纵坐标范围
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GamePaused">
+ <summary>
+ 游戏是否暂停
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LawnType">
+ <summary>
+ 草地格子类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RouteType">
+ <summary>
+ 道路类型枚举
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawn">
+ <summary>
+ 草地类
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawn.GetGridType(System.Int32,System.Int32)">
+ <summary>
+ 获取指定位置的草地类型
+ </summary>
+ <param name="Row">行</param>
+ <param name="Colnum">列</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawn.SetGridType(System.Int32,System.Int32,IZ自制关卡快捷布阵器_V1._1._0.PVZ.LawnType)">
+ <summary>
+ 设置指定位置的草地类型
+ </summary>
+ <param name="Row">行</param>
+ <param name="Colnum">列</param>
+ <param name="Tyte">要设置的类型</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawn.GetRouteType(System.Int32)">
+ <summary>
+ 获取指定道路的类型
+ </summary>
+ <param name="Route">道路</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Lawn.SetRouteType(System.Int32,IZ自制关卡快捷布阵器_V1._1._0.PVZ.RouteType)">
+ <summary>
+ 设置指定道路类型
+ </summary>
+ <param name="Route">要设置的道路</param>
+ <param name="Type">要设置的类型</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Icetrace">
+ <summary>
+ 冰道类
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Icetrace.GetX(System.Int32)">
+ <summary>
+ 获取指定道路的冰道横坐标
+ </summary>
+ <param name="Route">要获取的道路</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Icetrace.SetX(System.Int32,System.Int32)">
+ <summary>
+ 设置指定道路的冰道横坐标
+ </summary>
+ <param name="Route">要设置的道路</param>
+ <param name="X">要设置的横坐标</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Icetrace.GetDisapperaCountdown(System.Int32)">
+ <summary>
+ 获取指定道路的冰道消失倒计时
+ </summary>
+ <param name="Route">要获取的道路</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Icetrace.SetDisapperaCountdown(System.Int32,System.Int32)">
+ <summary>
+ 设置指定道路的冰道消失倒计时
+ </summary>
+ <param name="Route">要设置的道路</param>
+ <param name="DisappearCountdown">要设置的消失倒计时</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList">
+ <summary>
+ 僵尸出怪列表对象
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave">
+ <summary>
+ 当前波的僵尸出怪对象
+ </summary>
+</member>
+<member name="F:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.BaseAddress">
+ <summary>
+ 对象指针
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.#ctor(System.Int32)">
+ <summary>
+ 通过当前波的对象指针新建一个波的僵尸出怪对象
+ </summary>
+ <param name="Address">当前波的对象指针</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.All">
+ <summary>
+ 设置或获得当前波的所有僵尸,返回一个数组
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Count">
+ <summary>
+ 获得当前波的僵尸数量
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Add(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType)">
+ <summary>
+ 添加一个僵尸到列表中
+ </summary>
+ <param name="Zombie">要添加的僵尸</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Add(IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType[])">
+ <summary>
+ 添加多个僵尸到到列表中
+ </summary>
+ <param name="Zombie">要添加的僵尸数组</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Del(System.Int32)">
+ <summary>
+ 删除指定位置的僵尸
+ </summary>
+ <param name="Index">要删除的僵尸位置</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Get­(System.Int32)">
+ <summary>
+ 获得指定位置的僵尸
+ </summary>
+ <param name="Index">要删除的僵尸位置</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.Wave.Set­(System.Int32,IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieType)">
+ <summary>
+ 设置指定位置的僵尸
+ </summary>
+ <param name="Index">要删除的僵尸位置</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieList.GetWave(System.Int32)">
+ <summary>
+ 获得指定波的僵尸出怪列表
+ </summary>
+ <param name="Num">要获得的波数</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieSeed">
+ <summary>
+ 获取僵尸出怪种子
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SunDropCountdown">
+ <summary>
+ 设置或获取阳光掉落倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SunDropCount">
+ <summary>
+ 设置或获取阳光掉落个数
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ViewShake(System.Int32,System.Int32)">
+ <summary>
+ 引发一次屏幕震动
+ </summary>
+ <param name="LateralAmplitude">横向震动幅度,默认2</param>
+ <param name="VerticalAmplitude">纵向震动幅度,默认4</param>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SceneType">
+ <summary>
+ 场景类型枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Scene">
+ <summary>
+ 设置或获取当前场景类型
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SixRoute">
+ <summary>
+ 是否有6路地图
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AdventureLevel">
+ <summary>
+ 设置或获取冒险模式关卡
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Sun">
+ <summary>
+ 设置或获取当前阳光数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.WaveNum">
+ <summary>
+ 获取当前关卡波数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RunningTime">
+ <summary>
+ 获取当前关卡的游玩时间
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Assault">
+ <summary>
+ 僵尸突袭(产生三人组)
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CurrentWave">
+ <summary>
+ 当前所在波数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RefreshedWave">
+ <summary>
+ 已刷新的波数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FirstLevelMsg">
+ <summary>
+ 1-1提示
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RefreshHp">
+ <summary>
+ 设置或获取达到刷新条件的血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CurrentWaveHp">
+ <summary>
+ 本波总血量
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RefreshWaveCountdown">
+ <summary>
+ 设置或获取下一波刷新僵尸倒计时
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.RefreshHugeWaveCountdown">
+ <summary>
+ 设置或获取下一波刷新僵尸倒计时初始值
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.HaveShovel">
+ <summary>
+ 设置或获取是否有铲子
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ExitingLevelCountDown">
+ <summary>
+ 退出关卡倒计时
+ </summary>
+</member>
+<member name="T:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DebugMode">
+ <summary>
+ 调试模式枚举
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DebugMode­">
+ <summary>
+ 设置或获取调试模式,只有英文版才可以使用这个属性
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Win">
+ <summary>
+ 获胜(直接过关)
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SetCurrentWave(System.Int32)">
+ <summary>
+ 设置当前所在波
+ </summary>
+ <param name="Wave">要设置的波数</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Beep">
+ <summary>
+ 发出提示音
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Mustache">
+ <summary>
+ 设置或获取是否开启了Mustache模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Trickedout">
+ <summary>
+ 设置或获取是否开启了Trickedout模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Future">
+ <summary>
+ 设置或获取是否开启了Future模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Pinata">
+ <summary>
+ 设置或获取是否开启了Pinata模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Dance">
+ <summary>
+ 设置或获取是否开启了Dance模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Daisies">
+ <summary>
+ 设置或获取是否开启了Daisies模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Sukhbir">
+ <summary>
+ 设置或获取是否开启了Sukhbir模式
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.EatenPlants">
+ <summary>
+ 获得被吃掉的植物数
+ </summary>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ShoveledPlants">
+ <summary>
+ 获得被铲掉的植物数
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BGRunable(System.Boolean)">
+ <summary>
+ 设置后台运行
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ShowHiddenLevel(System.Boolean)">
+ <summary>
+ 显示隐藏关卡
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.EnablePortal(System.Boolean)">
+ <summary>
+ 启动传送门,注意该方法会自动创建默认的传送门
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FixPortal(System.Boolean)">
+ <summary>
+ 固定传送门
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="P:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SunMax">
+ <summary>
+ 阳光上限
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.NoUpperLimit(System.Boolean)">
+ <summary>
+ 去除上限
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.OverlapPlanting(System.Boolean)">
+ <summary>
+ 重叠放置
+ </summary>
+ <param name="Switch">开启还是关闭,默认开启</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.JumpLevel(System.Int32,System.Byte)">
+ <summary>
+ 跳关
+ </summary>
+ <param name="advLevel">冒险模式关卡</param>
+ <param name="gameLevel">其他关卡</param>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.IgnoreRes(System.Boolean)">
+ <summary>
+ 无视资源
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.NoCD(System.Boolean)">
+ <summary>
+ 取消冷却
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ConveyorBeltNoDelay(System.Boolean)">
+ <summary>
+ 传送带无延迟
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullScreenFog(System.Boolean)">
+ <summary>
+ 全屏浓雾
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BlockZombie(System.Boolean)">
+ <summary>
+ 暂停僵尸刷新
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VasePerspect(System.Boolean)">
+ <summary>
+ 罐子透视
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FogPerspect(System.Boolean)">
+ <summary>
+ 浓雾透视
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LockShovel(System.Boolean)">
+ <summary>
+ 锁定铲子
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AutoCollect(System.Boolean)">
+ <summary>
+ 自动收集资源
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.UnlockAllLevel(System.Boolean)">
+ <summary>
+ 全模式解锁
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DaveSelectYourCard(System.Nullable{System.Boolean})">
+ <summary>
+ 戴夫选卡
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BowlingMode(System.Boolean)">
+ <summary>
+ 保龄球模式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Rainning(System.Boolean)">
+ <summary>
+ 下雨天
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DropCard(System.Boolean)">
+ <summary>
+ 天上掉卡片
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.Invisighoul(System.Nullable{System.Boolean})">
+ <summary>
+ 隐形僵尸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BeghouledTwist(System.Boolean)">
+ <summary>
+ 宝石迷阵转转看
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LittleZombie(System.Boolean)">
+ <summary>
+ 小僵尸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ColumnLike(System.Boolean)">
+ <summary>
+ 柱子一样
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.WharkaZombie(System.Boolean)">
+ <summary>
+ 锤僵尸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.HighGravity(System.Boolean)">
+ <summary>
+ 地心引力
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieDrillOut(System.Boolean)">
+ <summary>
+ 地里冒僵尸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.GraveDanger(System.Boolean)">
+ <summary>
+ 坟墓模式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DarkStormyNight(System.Boolean)">
+ <summary>
+ 黑暗暴风雨
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BungeeBlitz(System.Boolean)">
+ <summary>
+ 蹦极闪电战
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.EndlessMode(System.Boolean)">
+ <summary>
+ 无尽模式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PurpleSunRaise(System.Nullable{System.Boolean})">
+ <summary>
+ 紫卡阳光增加
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllPurpleCard(System.Boolean)">
+ <summary>
+ 全部紫卡判定
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.VaseCanBreak(System.Boolean)">
+ <summary>
+ 砸罐子模式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.IZombieMode(System.Boolean)">
+ <summary>
+ 我是僵尸模式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantRollBlast(System.Nullable{System.Boolean})">
+ <summary>
+ 植物被压炸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantCanPutLadder(System.Nullable{System.Boolean})">
+ <summary>
+ 植物可以搭梯
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MushroomNoSleep(System.Nullable{System.Boolean})">
+ <summary>
+ 植物可以搭梯
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllHypnoshroon(System.Nullable{System.Boolean})">
+ <summary>
+ 植物魅惑菇
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllTochwood(System.Boolean)">
+ <summary>
+ 植物火炬
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllTallNut(System.Nullable{System.Boolean})">
+ <summary>
+ 植物高坚果
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllPlantern(System.Nullable{System.Boolean})">
+ <summary>
+ 植物路灯花
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.NoCrater(System.Nullable{System.Boolean})">
+ <summary>
+ 毁灭菇无痕
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.StrongBlover(System.Boolean)">
+ <summary>
+ 强力三叶草
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllGarlic(System.Nullable{System.Boolean})">
+ <summary>
+ 植物大蒜
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllUmbrellaLeaf(System.Nullable{System.Boolean})">
+ <summary>
+ 植物保护伞
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.CattailNoWaste(System.Boolean)">
+ <summary>
+ 香蒲子弹触碰伤害
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.LockButter(System.Nullable{System.Boolean})">
+ <summary>
+ 锁定黄油
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.SuperBowling(System.Boolean)">
+ <summary>
+ 超级保龄球
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantFaceLeft(System.Boolean)">
+ <summary>
+ 植物反向攻击
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantForbidden(System.Boolean)">
+ <summary>
+ 禁止种植植物
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PlantAlwaysFight(System.Nullable{System.Boolean})">
+ <summary>
+ 植物持续攻击
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullScreenBlast(System.Nullable{System.Boolean})">
+ <summary>
+ 灰烬全屏
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullScreenSquash(System.Nullable{System.Boolean})">
+ <summary>
+ 倭瓜全屏
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullScreenMagnetshroom(System.Nullable{System.Boolean})">
+ <summary>
+ 磁力菇全屏
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.FullScreenSputter(System.Nullable{System.Boolean})">
+ <summary>
+ 溅射全屏
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.IZPlantStyle(System.Nullable{System.Boolean})">
+ <summary>
+ IZ纸板样式
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieInfinitePole(System.Boolean)">
+ <summary>
+ 撑杆无限跳
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ErYeNoAngry(System.Boolean)">
+ <summary>
+ 二爷不愤怒
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllDancer(System.Boolean)">
+ <summary>
+ 僵尸召唤舞伴
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllDance(System.Boolean)">
+ <summary>
+ 僵尸跳舞
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllIceTrace(System.Boolean)">
+ <summary>
+ 僵尸留冰道
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieUniformSpeed(System.Boolean)">
+ <summary>
+ 僵尸匀速前进
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.JackNoBoom(System.Boolean)">
+ <summary>
+ 小丑不炸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.BalloonBoom(System.Boolean)">
+ <summary>
+ 气球自爆
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.DiggerForword(System.Boolean)">
+ <summary>
+ 矿工出土向前
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.PogoNoPogo(System.Boolean)">
+ <summary>
+ 跳跳无判定
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieSpeedUp(System.Boolean)">
+ <summary>
+ 僵尸速度加快
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieSpeedUpUp(System.Boolean)">
+ <summary>
+ 僵尸速度更快
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieReverse(System.Boolean)">
+ <summary>
+ 逆向僵尸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.InfiniteLadder(System.Boolean)">
+ <summary>
+ 无限搭梯
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AllGargantuar(System.Boolean)">
+ <summary>
+ 僵尸变巨人
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.HRollAttack(System.Nullable{System.Boolean})">
+ <summary>
+ 横向降维打击
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieAllCollison(System.Boolean)">
+ <summary>
+ 僵尸全屏判定
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombiePea(System.Boolean)">
+ <summary>
+ 僵尸发射豌豆
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.JalapenoNoBoom(System.Boolean)">
+ <summary>
+ 辣椒不炸
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieGatling(System.Boolean)">
+ <summary>
+ 僵尸机枪豌豆
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.IceProof(System.Boolean)">
+ <summary>
+ 免疫减速
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ButterProof(System.Boolean)">
+ <summary>
+ 免疫黄油
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.MagnetProof(System.Boolean)">
+ <summary>
+ 免疫磁力菇
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.ZombieNoWork(System.Boolean)">
+ <summary>
+ 僵尸不前进
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AppearNoLimit(System.Boolean)">
+ <summary>
+ 无限制
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AppearVeryMuch(System.Boolean)">
+ <summary>
+ 传送带
+ </summary>
+</member>
+<member name="M:IZ自制关卡快捷布阵器_V1._1._0.PVZ.AppearLikeColumn(System.Boolean)">
+ <summary>
+ 柱子
+ </summary>
+</member>
+</members>
+</doc>
